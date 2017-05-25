@@ -27,7 +27,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #eb3812;
+  color: #black;
 }
 h1,
 h2,
@@ -46,8 +46,8 @@ p {
   background-color: #black;
 }
 .bg-dark {
-  background-color: #222222;
-  color: white;
+  background-color: black;
+  color: black;
 }
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
@@ -62,7 +62,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: black;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
